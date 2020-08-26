@@ -1,0 +1,22 @@
+.contact-form-request {
+    box-shadow: 0 0 20px rgba(100, 100, 100, 0.2);
+    height: 100%;
+    padding: 1rem;
+    padding-top: 2.5rem;
+}
+
+.contact-form-request textarea {
+    resize: none;
+}
+
+.text-center button{
+    background:#1998D5;
+    color:white;
+    border:none;
+    padding:10px 1rem;    
+    transition: all 0.3s;
+}
+
+.text-center button:hover{
+    background:#00aeff;
+}
